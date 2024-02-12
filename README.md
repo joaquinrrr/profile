@@ -10,19 +10,17 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Data Analytics
+ 🔭 I’m currently working on *Data Analytics*
  
- 🌱 I’m currently learning Python + Cybersecurity
+ 🌱 I’m currently learning **Python + Cybersecurity** and **Cloud Computing**
 
 💬 Ask me about anything!!!
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
 <div align="center"> 
   <a href="mailto:joaquinrivram@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=outlook&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/joaquinriveraramos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
