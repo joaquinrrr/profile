@@ -16,12 +16,12 @@
 
 💬 Ask me about anything!!!
 
+📫 Send me an email **joaquinrivram@hotmail.com**
+
+
  </div>
  
 <div align="center"> 
-  <a href="mailto:joaquinrivram@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=outlook&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/joaquinriveraramos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
